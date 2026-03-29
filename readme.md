@@ -1,4 +1,5 @@
 # 📱 Mobile AI Development Environment For Free (VS Code + Claude Code + Ollama )
+<img width="3268" height="1184" alt="banner" src="https://github.com/user-attachments/assets/e600d51b-1c74-416c-b18f-6850be304702" />
 
 A complete, professional setup to turn your Android device into a portable AI-powered development environment.
 This guide walks through installing a local LLM (Ollama), configuring Claude Code inside Ubuntu, and running VS Code in your browser.
