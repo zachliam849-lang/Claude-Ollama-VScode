@@ -75,10 +75,10 @@ proot-distro login ubuntu
 ---
 
 2. Update system and install dependencies
-
+```
 apt update && apt upgrade -y
 apt install -y curl wget git build-essential nodejs npm
-
+```
 ---
 
 
